@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to the extendr organisation
+
+extendr is a project that aims for to aid in creation, maintenance, and publishing of Rust-based R-packages.
+Moreso, the overall extendr organisation consists many more parts. 
+
+
 
 <!--
 
